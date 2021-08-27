@@ -1,5 +1,5 @@
 USB Drive File Passwords and Historic Stealer<a name="TOP"></a>
-
+<img src="https://giphy.com/gifs/southparkgifs-3o6ZtafpgSpvIaKhMI" width="1000" height="300" />
 In recent days I was looking for a way to steal data from a computer using just a USB Drive, many of these tutorials were flawed or indiscreet, so I tried to adapt so that automatically when you open the .bat file it downloads the folders to it.
 I put 3 .exe files in case you can be less discreet when Hijacking.
 
