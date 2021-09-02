@@ -31,3 +31,10 @@ _(At the top of the 2 programs will have a save option, click on it and choose y
 *I made a repository explaining how to automatically steal data just by putting the usb drive, without opening anything, this is the link:*
 
 *Before performing this process on someone's computer, test this method on your computer until you actually learn how it works, otherwise you run the risk of not working or in the worst case leaving a trace that you were copying data from the victim's computer to their computer.*
+<br />
+<br />
+<br />
+**main credits:**<br />
+*https://www.youtube.com/watch?v=zgwqoa1gmP4&ab_channel=TutorialsLV<br />*
+*https://www.nirsoft.net/utils/web_browser_password.html<br />*
+*https://www.nirsoft.net/utils/browsing_history_view.html<br />*
