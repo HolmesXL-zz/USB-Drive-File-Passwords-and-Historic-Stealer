@@ -46,3 +46,4 @@ To make the .bat file run automatically you need to transform it into .exe, we w
 *https://www.youtube.com/watch?v=zgwqoa1gmP4&ab_channel=TutorialsLV<br />*
 *https://www.nirsoft.net/utils/web_browser_password.html<br />*
 *https://www.nirsoft.net/utils/browsing_history_view.html<br />*
+*https://www.samlogic.net/usb-autorun-creator/usb-autorun-creator.htm<br />*
